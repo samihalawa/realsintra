@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://trysintra.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://trysintra.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://trysintra.com/collections/all.atom"/>
+  <title>Sintra 🤖</title>
+  <updated>2023-08-06T23:48:32+03:00</updated>
+  <author>
+    <name>Sintra 🤖</name>
+  </author>
+  <entry>
+    <id>https://trysintra.com/products/8753763778901</id>
+    <published>2023-08-06T23:48:32+03:00</published>
+    <updated>2023-08-06T23:48:32+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/competitor-analysis-bot-%E2%9A%99%EF%B8%8F"/>
+    <title>Competitor Analysis Bot ⚙️</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/Competitoranalysisbox.png?v=1691345608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-pm-slice="1 1 []" data-mce-fragment="1">Find your business competitors and receive a full AI analysis on how to exploit competitors' weaknesses.</p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eCommerce</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8753763778901</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_competitor-analysis-bot-shopify--gs90dd9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8753741824341</id>
+    <published>2023-08-06T23:48:21+03:00</published>
+    <updated>2023-08-06T23:48:21+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/winning-product-finder-bot-%E2%9A%99%EF%B8%8F"/>
+    <title>Winning Product Finder Bot ⚙️</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/WinningProductFinderbox.png?v=1691340867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-pm-slice="1 1 []" data-mce-fragment="1">Get a list of the top trending products to sell right now with Aliexpress links, reviews and more.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eCommerce</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8753741824341</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_winning-product-finder-bot-shopify--lvd60ys8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8752485204309</id>
+    <published>2023-08-06T23:48:13+03:00</published>
+    <updated>2023-08-06T23:48:13+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/agency-client-onboarding-bot%E2%9A%99%EF%B8%8F"/>
+    <title>Agency Client Onboarding Bot⚙️</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/agencyclientonboardingbox.png?v=1691178721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-pm-slice="1 1 []" data-mce-fragment="1">Get short summaries about the company from Typeform and directly create a task in Asana with all the information needed.</p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sales</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8752485204309</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_agency-client-onboarding-bot-shopify--221a0hal</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8752190751061</id>
+    <published>2023-08-06T23:48:04+03:00</published>
+    <updated>2023-08-06T23:48:04+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/linkedin-scraper-bot"/>
+    <title>Linkedin Scraper Bot</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/Linkedinscraperbox.png?v=1691153343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-pm-slice="1 1 []" data-mce-fragment="1">Get a full analysis about the person you find interesting by only using their Linkedin profile.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Assistant</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8752190751061</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_linkedin-scraper-bot-tf3c0yfj</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8747518329173</id>
+    <published>2023-08-02T21:34:24+03:00</published>
+    <updated>2023-08-02T21:34:24+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/%E2%9A%99%EF%B8%8F"/>
+    <title>Customer Persona Bot⚙️</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/custumerpersonabox.png?v=1690842763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-pm-slice="1 1 []" data-mce-fragment="1">This AI bot will create a customer persona based on your search queries in Google Maps.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sales</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8747518329173</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_customer-persona-bot-shopify--api0dvn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8618906157397</id>
+    <published>2023-08-02T21:33:54+03:00</published>
+    <updated>2023-08-02T21:33:54+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/print-on-demand-bot"/>
+    <title>Print On Demand Bot ⚙️</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/PrintOnDemandBot.png?v=1685425878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            57.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Creates merch imagery based on your subjects using AI image generators and publishes merch items to your store<br><script type="text/javascript" src="chrome-extension://fooolghllnmhmmndgjiamiiodkpenpbb/injectedPasswordless.js"></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eCommerce</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8618906157397</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.00</s:price>
+      <s:sku>pln_print-on-demand-bot-shopify--0c2700p8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8747431002453</id>
+    <published>2023-08-02T21:33:39+03:00</published>
+    <updated>2023-08-02T21:33:39+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/seo-site-analysis-bot-%E2%9A%99%EF%B8%8F"/>
+    <title>SEO Site  Analysis Bot ⚙️</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/seositeanalysisbot.png?v=1690833122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-pm-slice="1 1 []" data-mce-fragment="1">Makes a full analysis of your website and provides a concise summary of what needs to be improved.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SEO</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8747431002453</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_seo-site-analysis-bot-hnw0wc3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8747576885589</id>
+    <published>2023-08-02T21:33:22+03:00</published>
+    <updated>2023-08-02T21:33:22+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/site-seed-bot%E2%9A%99%EF%B8%8F"/>
+    <title>Site Seed Bot⚙️</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/siteseedboxpt2.png?v=1691001965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-pm-slice="1 1 []" data-mce-fragment="1">This AI bot writes the best-performing SEO blog posts using the most suitable keywords and automatically publishes them on your Webflow website.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SEO</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8747576885589</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_site-seed-bot-shopify--rj1b0ri0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8747588485461</id>
+    <published>2023-08-01T05:18:00+03:00</published>
+    <updated>2023-08-01T05:18:00+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/support-report-bot%E2%9A%99%EF%B8%8F"/>
+    <title>Support Report Bot⚙️</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/supoortreportboxpt2.png?v=1690992350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-pm-slice="1 1 []" data-mce-fragment="1">This bot gathers all the responses from your Typeform and provides a brief analysis of what needs to be improved on your product.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Support</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8747588485461</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_support-report-bot-shopify--om1f0dor</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8747542282581</id>
+    <published>2023-08-01T05:06:45+03:00</published>
+    <updated>2023-08-01T05:06:45+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/reddit-viral-bot"/>
+    <title>Reddit Viral Bot ⚙️</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/RedditViralbox.png?v=1690845154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-pm-slice="1 1 []" data-mce-fragment="1">This AI bot will create immersive blog posts and will upload them to your desired Reddit page.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Social Media</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8747542282581</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_reddit-viral-bot-shopify--5ns0dyp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8747501486421</id>
+    <published>2023-08-01T04:51:25+03:00</published>
+    <updated>2023-08-01T04:51:25+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/cv-analyzer-bot-%E2%9A%99%EF%B8%8F"/>
+    <title>CV Analyzer Bot ⚙️</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/CVanalyzerboxpt2.png?v=1690991905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-pm-slice="1 1 []" data-mce-fragment="1">Get an analysis of the CV and find out if the person you want to hire is eligible for your business needs. Get a recommendation, scoring system and more.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Assistant</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8747501486421</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_cv-analyzer-bot-z880d74</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8747486413141</id>
+    <published>2023-08-01T04:42:09+03:00</published>
+    <updated>2023-08-01T04:42:09+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/product-lister-bot-%E2%9A%99%EF%B8%8F"/>
+    <title>Product Lister Bot ⚙️</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/Productlisterbox.png?v=1690838809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-pm-slice="1 1 []" data-mce-fragment="1">Automatically upload your products from Google Sheets to your website.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eCommerce</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8747486413141</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_product-lister-bot-shopify--ei2d0wvm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8747390271829</id>
+    <published>2023-07-31T21:15:42+03:00</published>
+    <updated>2023-07-31T21:15:42+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/seo-keywords-bot-%E2%9A%99%EF%B8%8F"/>
+    <title>SEO Keywords Bot ⚙️</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/SEOKeywordsBotPNG.png?v=1690827346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Finds the best keywords for your website content and boosts SEO performance based on current market trends.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SEO</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8747390271829</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_-seo-keywords-bot-3lxm0nsi</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8742584877397</id>
+    <published>2023-07-26T11:42:54+03:00</published>
+    <updated>2023-07-26T11:42:54+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/copy-of-bot-bundle-for-autopilot-chatgpt"/>
+    <title>Bot Bundle For Autopilot ChatGPT.</title>
+    <s:type></s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/bandooombois_2_6aa63a84-9171-4bda-a85e-014c2c218ab4.webp?v=1690361042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            297.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://trysintra.com/products/8742584877397</id>
+      <title>Default Title</title>
+      <s:price currency="USD">297.00</s:price>
+      <s:sku>pln_sintra-max-shopify--hh1j30r9p</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8725977727317</id>
+    <published>2023-07-17T16:37:53+03:00</published>
+    <updated>2023-07-17T16:37:53+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/copy-of-sintra-max"/>
+    <title>Bot Bundle For Autopilot ChatGPT</title>
+    <s:type></s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/bandooombois_2.webp?v=1689601112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            197.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://trysintra.com/products/8725977727317</id>
+      <title>Default Title</title>
+      <s:price currency="USD">197.00</s:price>
+      <s:sku>pln_sintra-max-shopify--hh1j30r9p</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8700125806933</id>
+    <published>2023-07-13T13:59:23+03:00</published>
+    <updated>2023-07-13T13:59:23+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/prompts"/>
+    <title>Prompts</title>
+    <s:type></s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            97.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://trysintra.com/products/8700125806933</id>
+      <title>Default Title</title>
+      <s:price currency="USD">97.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8626873958741</id>
+    <published>2023-06-07T12:14:46+03:00</published>
+    <updated>2023-06-07T12:14:46+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/sintra-full-access"/>
+    <title>Sintra Full Access</title>
+    <s:type></s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/products/noglo_01276509-8ffc-4957-ab5b-90c35260a1e9.webp?v=1686129573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            77.00 - 177.00
+            <a href="https://trysintra.com/products/sintra-full-access">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://trysintra.com/products/8626873958741</id>
+      <title>Lifetime Access</title>
+      <s:price currency="USD">77.00</s:price>
+      <s:sku>pln_sintra-plus-shopify-ujtz0ams</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://trysintra.com/products/8626873958741</id>
+      <title>Business License</title>
+      <s:price currency="USD">177.00</s:price>
+      <s:sku>pln_sintra-plus-shopify-ujtz0ams</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8619822481749</id>
+    <published>2023-05-31T06:40:02+03:00</published>
+    <updated>2023-05-31T06:40:02+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/youtube-distribution-bot-%E2%9A%99%EF%B8%8F"/>
+    <title>Youtube Distribution Bot ⚙️</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/YoutubeDistributionBot.png?v=1685504264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Automatically share YouTube videos on your channel, triggering AI-generated summaries and expansions posted as threaded updates on Facebook, LinkedIn, or Twitter.<br><script type="text/javascript" src="chrome-extension://fooolghllnmhmmndgjiamiiodkpenpbb/injectedPasswordless.js"></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SEO</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8619822481749</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8619241963861</id>
+    <published>2023-05-30T16:18:43+03:00</published>
+    <updated>2023-05-30T16:18:43+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/related-questions-seo-bot"/>
+    <title>Related Questions SEO Bot ⚙️</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/RelatedQuestionsSEOBot.png?v=1685503622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Writes a full article based on most searched questions about a topic, then uses questions as subheadings for a blog article.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SEO</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8619241963861</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_related-questions-seo-bot-shopify--t8350563</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8619238359381</id>
+    <published>2023-05-30T16:18:28+03:00</published>
+    <updated>2023-05-30T16:18:28+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/seo-blog-writer-bot"/>
+    <title>SEO Blog Writer Bot ⚙️</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/SEOBlogWriterBot.png?v=1685503771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Using keyword research tools, this bot writes entire blog posts based on top searched keywords, and posts automatically to your website</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SEO</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8619238359381</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_seo-blog-writer-bot-shopify--zv290077</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8619130192213</id>
+    <published>2023-05-30T16:08:09+03:00</published>
+    <updated>2023-05-30T16:08:09+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/customer-support-email-bot"/>
+    <title>Customer Support Email Bot ⚙️</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/CustomerSupportEmailBot.png?v=1685501060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Power up your business with an A.I. chatbot trained on your data, seamlessly integrated into your customer support email system for automated service.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Support</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8619130192213</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_customer-support-email-bot-shopify--fx1u00eb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8619129110869</id>
+    <published>2023-05-30T16:08:08+03:00</published>
+    <updated>2023-05-30T16:08:08+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/google-maps-cold-email-bot"/>
+    <title>Google Maps Cold Email Bot ⚙️</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/GoogleMapsColdEmailBot.png?v=1685502224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Using a Google Maps scraper and mass emailer you can set up A.I. powered auto cold emails that go out every day without intervention.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sales</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8619129110869</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_google-maps-cold-email-bot-shopify--8v21002t</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8619128652117</id>
+    <published>2023-05-30T16:08:08+03:00</published>
+    <updated>2023-05-30T16:08:08+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/direct-mail-outreach-bot"/>
+    <title>Direct Mail Outreach Bot ⚙️</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/DirectMailOutreachBot.png?v=1685501244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Using a mailing service and leveraging GPT, this bot sends personalized physical mail to your customers or prospects on autopilot.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sales</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8619128652117</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_direct-mail-outreach-bot-shopify--vj2y05ke</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8619127898453</id>
+    <published>2023-05-30T16:08:08+03:00</published>
+    <updated>2023-05-30T16:08:08+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/cold-outreach-email-bot"/>
+    <title>Cold Outreach Email Bot ⚙️</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/ColdOutreachEmailBot.png?v=1685499953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Scrape emails from Linkedin, then automatically send personalized cold emails written by ChatGPT – all on auto-pilot.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sales</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8619127898453</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_cold-outreach-email-bot-shopify--ln2w05p4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8618994336085</id>
+    <published>2023-05-30T16:08:08+03:00</published>
+    <updated>2023-05-30T16:08:08+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/email-newsletter-bot"/>
+    <title>Email Newsletter Bot ⚙️</title>
+    <s:type>Bot</s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/EmailNewsletterBot.png?v=1685501484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong>Bot<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Writes newsletters for your topic by using the best examples of emails and articles on the internet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Social Media</s:tag>
+    <s:variant>
+      <id>https://trysintra.com/products/8618994336085</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_email-newsletter-bot-shopify--ox1y00xd</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

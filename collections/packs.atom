@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://trysintra.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://trysintra.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://trysintra.com/collections/packs.atom"/>
+  <title>Sintra 🤖</title>
+  <updated>2023-04-13T14:59:19+03:00</updated>
+  <author>
+    <name>Sintra 🤖</name>
+  </author>
+  <entry>
+    <id>https://trysintra.com/products/8368833331541</id>
+    <published>2023-04-13T14:59:19+03:00</published>
+    <updated>2023-04-13T14:59:19+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/copywriting"/>
+    <title>Ultimate ChatGPT Copywriting Prompt Pack ✍🏼</title>
+    <s:type></s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/products/copy.jpg?v=1681387941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://trysintra.com/products/8368833331541</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_copywriting-shopify--yh2n0501</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8181437759790</id>
+    <published>2023-03-16T11:47:53+02:00</published>
+    <updated>2023-03-16T11:47:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/business"/>
+    <title>Ultimate ChatGPT Business Pack 💸</title>
+    <s:type></s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/products/business.jpg?v=1678986043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Unlock all the hidden features of ChatGPT for business owners to save countless hours of your work-related tasks with this 1000+ Ultimate Prompt ChatGPT Business Pack.</span> <script type="text/javascript" src="chrome-extension://fooolghllnmhmmndgjiamiiodkpenpbb/jsAndWasm/injectedPasswordless.js"></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://trysintra.com/products/8181437759790</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>pln_entrepreneurship-zo805yq</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8175402680622</id>
+    <published>2023-03-12T13:08:23+02:00</published>
+    <updated>2023-03-12T13:08:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/webdev"/>
+    <title>Ultimate ChatGPT Web Developer Prompt Pack 💻</title>
+    <s:type></s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/products/webdev.jpg?v=1678630065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://trysintra.com/products/8175402680622</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_web-development-shopify--vce0fey</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8156424995118</id>
+    <published>2023-03-12T13:05:00+02:00</published>
+    <updated>2023-03-12T13:05:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/assistant"/>
+    <title>Ultimate ChatGPT Assistant Prompt Pack ✍️</title>
+    <s:type></s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/products/vaPACK.jpg?v=1678629612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://trysintra.com/products/8156424995118</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_assistants-shopify--w6d0fef</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8175398289710</id>
+    <published>2023-03-12T13:02:54+02:00</published>
+    <updated>2023-03-12T13:02:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/productivity"/>
+    <title>Ultimate ChatGPT Productivity Prompt Pack ✔️</title>
+    <s:type></s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/products/productivity.jpg?v=1678629648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://trysintra.com/products/8175398289710</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_productivity-z1a05vt</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8175396356398</id>
+    <published>2023-03-12T13:00:51+02:00</published>
+    <updated>2023-03-12T13:00:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/startups"/>
+    <title>Ultimate ChatGPT Startups Prompt Pack 🚀</title>
+    <s:type></s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/products/startups.jpg?v=1678630039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://trysintra.com/products/8175396356398</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>pln_startups-shopify--7490f0g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8175390949678</id>
+    <published>2023-03-12T12:56:28+02:00</published>
+    <updated>2023-03-12T12:56:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/realestate"/>
+    <title>Ultimate ChatGPT Real Estate Prompt Pack 🏠</title>
+    <s:type></s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/products/realestate.jpg?v=1678629661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://trysintra.com/products/8175390949678</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_real-estate-shopify--py905a1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8156413526318</id>
+    <published>2023-03-09T11:51:49+02:00</published>
+    <updated>2023-03-09T11:51:49+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/agency"/>
+    <title>Ultimate ChatGPT Agency Prompt Pack 🏌️</title>
+    <s:type></s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/products/productimage.png?v=1677773824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://trysintra.com/products/8156413526318</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>pln_agency-shopify--7q80fi8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8139591975214</id>
+    <published>2023-02-22T08:08:17+02:00</published>
+    <updated>2023-02-22T08:08:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/sales"/>
+    <title>Ultimate ChatGPT Sales Prompt Pack 💰</title>
+    <s:type></s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/products/Sales.jpg?v=1677046099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://trysintra.com/products/8139591975214</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>pln_sales-shopify--bx50fsn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8139589976366</id>
+    <published>2023-02-22T08:02:17+02:00</published>
+    <updated>2023-02-22T08:02:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/support"/>
+    <title>Ultimate ChatGPT Support Prompt Pack 💬</title>
+    <s:type></s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/products/Support.jpg?v=1677045739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://trysintra.com/products/8139589976366</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>pln_support-shopify--ww40f90</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8131885891886</id>
+    <published>2023-02-21T11:27:56+02:00</published>
+    <updated>2023-02-21T11:27:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/hr"/>
+    <title>Ultimate ChatGPT HR Prompt Pack 🤝</title>
+    <s:type></s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/products/HRpack.jpg?v=1676888909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://trysintra.com/products/8131885891886</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>pln_hr-shopify--6d7c0dsk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8106598924590</id>
+    <published>2023-01-28T14:59:02+02:00</published>
+    <updated>2023-01-28T14:59:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/chatgptmarketingpack"/>
+    <title>Ultimate ChatGPT Marketing Pack 🤖</title>
+    <s:type></s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/products/marketing.png?v=1677236512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Unlock all the hidden features of ChatGPT for digital marketers to save countless hours of your work-related tasks with this 1000+ Ultimate Prompt ChatGPT Business Pack.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://trysintra.com/products/8106598924590</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>pln_marketing-shopify--v3u60aw8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

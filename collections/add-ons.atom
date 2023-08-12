@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://trysintra.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://trysintra.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://trysintra.com/collections/add-ons.atom"/>
+  <title>Sintra 🤖</title>
+  <updated>2023-05-05T12:37:42+03:00</updated>
+  <author>
+    <name>Sintra 🤖</name>
+  </author>
+  <entry>
+    <id>https://trysintra.com/products/8362089513301</id>
+    <published>2023-05-05T12:37:42+03:00</published>
+    <updated>2023-05-05T12:37:42+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/1-600-ai-softwares-tools"/>
+    <title>💎 Leverage 499+ AI Tools for any business category 🛠️</title>
+    <s:type></s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/files/Screenshot2023-05-05at17.35.55.png?v=1683279366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><script type="text/javascript" src="chrome-extension://fooolghllnmhmmndgjiamiiodkpenpbb/injectedPasswordless.js"></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://trysintra.com/products/8362089513301</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>pln_1-600-ai-softwares-tools-shopify--1li0fl8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8373248098645</id>
+    <published>2023-04-18T15:51:49+03:00</published>
+    <updated>2023-04-18T15:51:49+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/400-successful-brands-to-spy-on"/>
+    <title>149+ Successful Brands to Spy on</title>
+    <s:type></s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/products/toptierbrands.jpg?v=1682092832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://trysintra.com/products/8373248098645</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>pln_400-successful-brands-to-spy-on-shopify--vwbf05fl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://trysintra.com/products/8165213012270</id>
+    <published>2023-03-07T21:28:15+02:00</published>
+    <updated>2023-03-07T21:28:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://trysintra.com/products/400-extra-prompts-30-hacks-to-supercharge-your-business"/>
+    <title>400+ ADVANCED Prompts &amp; 30+ Hacks To Supercharge Your Business</title>
+    <s:type></s:type>
+    <s:vendor>Sintra 🤖</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0716/1200/6702/products/400_prompts.jpg?v=1682092951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sintra 🤖<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://trysintra.com/products/8165213012270</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>pln_400-extra-prompts-30-hacks-shopify--3tg05mp</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

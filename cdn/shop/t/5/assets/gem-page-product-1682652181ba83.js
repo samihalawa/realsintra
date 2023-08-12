@@ -1,0 +1,2 @@
+(function(jQuery2){var $module=jQuery2("#m-1682653468914").children(".module");$module.gfV1Popup();var mode=jQuery2(".gryffeditor").hasClass("editing")?"dev":"production";if(mode=="dev"){var moduleId="1682653468914",moduleIdSlug=moduleId.toString().replace(/-/g,"");moduleIdSlug=="1682653468914"&&(window.getPopup1682653468914=function(){return $module.data("gfv1popup")})}})(window.GemQuery||jQuery);
+//# sourceMappingURL=/cdn/shop/t/5/assets/gem-page-product-1682652181.js.map?v=68710723200077710031686936905
